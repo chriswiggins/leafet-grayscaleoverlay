@@ -1,0 +1,25 @@
+{
+  "name": "leaflet-grayscaleoverlay",
+  "version": "1.0.0",
+  "description": "Layer that can be added to leaflet that applies a grayscale mask over the map when applied",
+  "main": "leaflet-grayscaleoverlay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chriswiggins/leafet-grayscaleoverlay.git"
+  },
+  "keywords": [
+    "leaflet",
+    "tile",
+    "grayscale",
+    "overlay"
+  ],
+  "author": "Chris Wiggins <chris@wiggins.nz>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/chriswiggins/leafet-grayscaleoverlay/issues"
+  },
+  "homepage": "https://github.com/chriswiggins/leafet-grayscaleoverlay#readme"
+}

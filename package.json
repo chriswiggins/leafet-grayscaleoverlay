@@ -1,6 +1,6 @@
 {
   "name": "leaflet-grayscaleoverlay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Layer that can be added to leaflet that applies a grayscale mask over the map when applied",
   "main": "leaflet-grayscaleoverlay.js",
   "scripts": {
